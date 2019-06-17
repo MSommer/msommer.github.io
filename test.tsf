@@ -8,7 +8,7 @@ cx	cy	capitalization	earnings	taxes	x	y	sector	name	alias	symbol
 361.4	-1.2	15070	4131	1288	354.9	18.3	Consumer products	Brown-Forman Corporation		BF.B
 197.6	41.1	3826	810	132	191.9	3.6	Consumer products	Cablevision Systems Corporation		CVC
 342.2	17.9	14197	6633	1967	340.3	14.8	Consumer products	Campbell Soup Company		CPB
-4.7	5.6	26166	11794	74	7.4	10	Consumer products	Carnival Corporation		CCL
+4.7	5.6	26166	11794	74	7.4	-10	Consumer products	Carnival Corporation		CCL
 748.5	-15.6	29349	-4162	1724	751.6	-6.6	Consumer products	CBS Corporation		CBS
 353	-4.4	10444	1542	447	341.3	0.5	Consumer products	"Chipotle Mexican Grill, Inc."		CMG
 379.3	8.6	14039	7177	2338	374.6	17.4	Consumer products	"Coach, Inc."		COH
