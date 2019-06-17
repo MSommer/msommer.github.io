@@ -12,7 +12,7 @@ cx	cy	capitalization	earnings	taxes	x	y	sector	name	alias	symbol
 748.5	-15.6	29349	-4162	1724	751.6	-6.6	Consumer products	CBS Corporation		CBS
 353	-4.4	10444	1542	447	341.3	0.5	Consumer products	"Chipotle Mexican Grill, Inc."		CMG
 379.3	8.6	14039	7177	2338	374.6	17.4	Consumer products	"Coach, Inc."		COH
-266.5	-3.9	10155	4452	1026	267.4	-7.2	Consumer products	Coca-Cola Enterprises Inc.		CCE
+266.5	-3.9	10155	4452	1026	267.4	0	Consumer products	Coca-Cola Enterprises Inc.		CCE
 350	-15.9	54989	20199	6017	343.3	-13.7	Consumer products	Colgate-Palmolive Co.		CL
 285.6	14.7	108363	39433	10034	281.5	-1.9	Consumer products	Comcast Corporation		CMCS.A
 456.6	-20.4	14421	5206	2074	458.7	2.8	Consumer products	"ConAgra Foods, Inc."		CAG
